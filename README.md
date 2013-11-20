@@ -2,7 +2,7 @@ A.C.I.D.
 ========
 Aural Colour Identification Device -- detect and convert visible colours to sound (or otherwise manipulate values)
 
-ACID allows you to hear colours (or otherwise manipulate the processed colour values, through the SPI header), thanks to the TCS3200 light-to-frequency converter and a little processing.  It is released here, under the terms of the GPL (source code) and Creative Commons BY-NC (attribution/non-commercial, for the schematics and layouts) in the hopes it will allow hobbiests and experimenters to play with colour detection and perhaps be useful.
+ACID allows you to hear colours (or otherwise manipulate the processed colour values, through the SPI header), thanks to the TCS3200 light-to-frequency converter and a little processing.  It is released here, under the terms of the GPL (source code) and Creative Commons BY-NC (attribution/non-commercial, for the schematics and layouts) in the hopes it will allow hobbyists and experimenters to play with colour detection and perhaps be useful.
 
 Full documentation is available on the project site: http://flyingcarsandstuff.com/projects/acid/
 
